@@ -1,4 +1,4 @@
-# Staz - Mateusz - Bienias
+# Last Internship Project
 ### APP Description
 Intern project for Euvic's recruitment process. <br>
 Application allows users to get list of medical benefits and rate them. <br>
