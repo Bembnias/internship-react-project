@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .active-route {
+    @apply underline underline-offset-2 decoration-4 decoration-purple-500;
+  }
+}
